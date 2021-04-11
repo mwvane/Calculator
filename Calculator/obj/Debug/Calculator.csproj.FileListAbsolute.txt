@@ -1,0 +1,19 @@
+c:\users\მწვანე\documents\visual studio 2017\Projects\Calculator\Calculator\bin\Debug\Calculator.exe.config
+c:\users\მწვანე\documents\visual studio 2017\Projects\Calculator\Calculator\bin\Debug\Calculator.exe
+c:\users\მწვანე\documents\visual studio 2017\Projects\Calculator\Calculator\bin\Debug\Calculator.pdb
+c:\users\მწვანე\documents\visual studio 2017\Projects\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+c:\users\მწვანე\documents\visual studio 2017\Projects\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+c:\users\მწვანე\documents\visual studio 2017\Projects\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+c:\users\მწვანე\documents\visual studio 2017\Projects\Calculator\Calculator\obj\Debug\Calculator.exe
+c:\users\მწვანე\documents\visual studio 2017\Projects\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\მწვანე\documents\visual studio 2017\Projects\Calculator\Calculator\bin\Debug\bunifu_ui_v1.52.dll
+C:\Users\მწვანე\documents\visual studio 2017\Projects\Calculator\Calculator\obj\Debug\Calculator.MyCalculator.resources
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\My Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\My Calculator\Calculator\obj\Debug\Calculator.MyCalculator.resources
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\My Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\My Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\My Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\My Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\My Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\My Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\My Calculator\Calculator\bin\Debug\Calculator.pdb
